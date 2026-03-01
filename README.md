@@ -5,13 +5,14 @@ Setup and Installation Instructions
 
 1. Clone the repository
 git clone https://github.com/NSdev9/InsightX-_Leadership-Analytics-Challenge-.git
+
 cd insightx
  NOTE : UNZIP THE ZIPPED DATASET BEFORE PROCEEDING
-2. Create virtual environment
+3. Create virtual environment
 python -m venv venv1
 venv1\Scripts\activate
 
-3. Install dependencies
+4. Install dependencies
 pip install -r requirements.txt
 pip install --upgrade openai
 
